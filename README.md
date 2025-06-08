@@ -1,4 +1,4 @@
-# 🛫 Airline Passenger Referral Prediction ✈️
+# 🛫 Indigo Passenger Referral Prediction ✈️
 
 <img src="https://github.com/vivekMishra121/-Airline-Passenger-Referral-Prediction/assets/143250429/172fc675-9a58-4c95-811a-882aa5403538" alt="Airline Referral Prediction Banner" style="height: 450px; width: 1000px;">
 
